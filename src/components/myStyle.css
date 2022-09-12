@@ -1,0 +1,22 @@
+.Nlink{
+    text-decoration: none;
+    color: blue;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.navbar{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   justify-content: space-between;
+   background-color: aqua;
+   
+}
+.Napp{
+    background-image: linear-gradient(blue,white,yellow,red,);
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+}.body{
+    background-color: aquamarine;
+}
